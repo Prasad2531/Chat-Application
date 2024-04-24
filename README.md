@@ -1,6 +1,8 @@
 # Chat Application with Spring Boot and Websockets
 
 This project is a chat application built with Spring Boot and uses Websockets as communication medium.
+
+
 ![Screenshot 2024-04-23 115413](https://github.com/Prasad2531/Chat-Application/assets/92990670/213f091c-6ae1-421a-b564-9a8e7a529ba8)
 
 ## Installation
@@ -47,6 +49,10 @@ This project is a chat application built with Spring Boot and uses Websockets as
 
 Application configurations can be modified in `src/main/resources/application.properties`.
 
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
