@@ -2,6 +2,10 @@
 
 This project is a chat application built with Spring Boot and uses Websockets as communication medium.
 
+## Technologies Used
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
+
 
 ![Screenshot 2024-04-23 115413](https://github.com/Prasad2531/Chat-Application/assets/92990670/213f091c-6ae1-421a-b564-9a8e7a529ba8)
 
